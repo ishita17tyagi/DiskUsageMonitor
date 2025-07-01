@@ -26,6 +26,8 @@ This project demonstrates **Linux scripting**, **basic automation**, and **versi
 Below is a sample screenshot of the script running in the terminal:
 
   ![image](https://github.com/user-attachments/assets/e1ada6cf-9dd7-4ee3-8d94-2f8597feacfd)
+  ![image](https://github.com/user-attachments/assets/99406310-6bc3-49bb-931c-2703edb12060)
+
 
 ---
 
